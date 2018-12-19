@@ -1,3 +1,3 @@
-### Codility challenges 
+## Codility challenges 
 
-## Written in JS
+### Written in JS
